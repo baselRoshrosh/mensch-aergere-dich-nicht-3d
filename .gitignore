@@ -1,0 +1,17 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja*
+
+# IDE/editor
+.vscode/
+/*.code-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
