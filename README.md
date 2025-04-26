@@ -57,4 +57,8 @@ make
 
 This project was created as part of a university course and is intended for educational and demonstration purposes.
 
+## Screenshots
 
+![Screenshot 2025-04-26 020352](https://github.com/user-attachments/assets/d23b2497-558f-4cdb-9d43-69e31dbf953a)
+
+![Screenshot 2025-04-26 020411](https://github.com/user-attachments/assets/b3c723b4-4333-4404-84e6-e1d24c6f2482)
